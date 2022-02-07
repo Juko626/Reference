@@ -20,3 +20,5 @@
 9. [데이터 사이언스 면접 질문 모음](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
 10. [파이썬 클래스가 object를 상속받는 경우](https://jh-bk.tistory.com/24)
 11. [깃허브로 취업하기 블로그 글](https://jh-bk.tistory.com/24)
+12. [gradient descent 개념](https://bskyvision.com/411#comment8630197)
+13. [error backpropagation 개념](https://bskyvision.com/718)
