@@ -22,3 +22,6 @@
 11. [깃허브로 취업하기 블로그 글](https://jh-bk.tistory.com/24)
 12. [gradient descent 개념](https://bskyvision.com/411#comment8630197)
 13. [error backpropagation 개념](https://bskyvision.com/718)
+14. [퍼셉트론과 신경망 개념](https://hleecaster.com/ml-perceptron-concept/)
+
+
