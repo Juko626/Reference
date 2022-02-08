@@ -1,11 +1,6 @@
 # Reference
 
-### 
-
-
-
-
-참고문헌 모음
+## 참고문헌 모음
 
 
 
@@ -17,7 +12,7 @@
 6. [미분과 편미분 개념](https://airsbigdata.tistory.com/191)
 7. [Keras callback 함수 개념](https://deep-deep-deep.tistory.com/56)
 8. [신입 개발자 전공 지식 & 기술 면접 백과사전](https://gyoogle.dev/blog/)
-9. [데이터 사이언스 면접 질문 모음](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
+9. [데이터 사이언스 면접 질문](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
 10. [파이썬 클래스가 object를 상속받는 경우](https://jh-bk.tistory.com/24)
 11. [깃허브로 취업하기 블로그 글](https://jh-bk.tistory.com/24)
 12. [gradient descent 개념](https://bskyvision.com/411#comment8630197)
