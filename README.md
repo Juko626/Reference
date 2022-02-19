@@ -19,3 +19,4 @@
 13. [error backpropagation 개념](https://bskyvision.com/718)
 14. [퍼셉트론과 신경망 개념](https://hleecaster.com/ml-perceptron-concept/)
 15. [Git Remote 연결/해제](https://velog.io/@taehyunkim/TIL)
+16. [CARLA PYTHON SELF-DRIVING](https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo)
